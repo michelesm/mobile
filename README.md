@@ -36,12 +36,12 @@ Este projeto é um aplicativo To-Do List desenvolvido com Ionic, Angular e Fireb
     export const environment = {
         production: false,
         firebaseConfig: {
-            apiKey: "TU_API_KEY",
-            authDomain: "TU_AUTH_DOMAIN",
-            projectId: "TU_PROJECT_ID",
-            storageBucket: "TU_STORAGE_BUCKET",
-            messagingSenderId: "TU_MESSAGING_SENDER_ID",
-            appId: "TU_APP_ID"
+            apiKey: "API_KEY",
+            authDomain: "AUTH_DOMAIN",
+            projectId: "PROJECT_ID",
+            storageBucket: "STORAGE_BUCKET",
+            messagingSenderId: "MESSAGING_SENDER_ID",
+            appId: "APP_ID"
         }
     };
 
