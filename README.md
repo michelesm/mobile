@@ -22,7 +22,7 @@ Este projeto é um aplicativo To-Do List desenvolvido com Ionic, Angular e Fireb
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/jcardonamde/To-Do-List_App.git
+   git clone https://github.com/michelesm/mobile.git
    cd todo-app
 
 2. **Instalar dependências**
