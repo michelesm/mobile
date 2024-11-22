@@ -1,5 +1,5 @@
 
-#Aplicativo de lista de tarefas
+## Aplicativo de To-do List
 
 Este projeto é um aplicativo To-Do List desenvolvido com Ionic, Angular e Firebase. Ele permite aos usuários criar, gerenciar e concluir tarefas, bem como gerenciar categorias. O aplicativo também usa o Firebase Remote Config para ativar ou desativar recursos da IU, como a visibilidade do logotipo.
 
